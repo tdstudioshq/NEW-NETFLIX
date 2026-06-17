@@ -1,0 +1,6 @@
+{
+  "name": "Remix: InstaFlix",
+  "description": "A web application that merges the visually rich, horizontally scrolling UI of Netflix with the engaging, vertical social feed of Instagram, enhanced with AI-powered movie recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
